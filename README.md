@@ -2,7 +2,7 @@
 
 Discord: https://discord.gg/6PBbAuP
 
-Website (not updated atm): https://pyroclient.github.io
+Website: https://pyroclient.com/
 
 Suggestions and bug reports: https://github.com/pyroclient/pyro/issues
 
