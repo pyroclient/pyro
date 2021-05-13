@@ -18,5 +18,9 @@ Waiting for 1.5 to release? We're still 90% done the new loader like we said 4 m
 
 The 1.5 loader is guaranteed to be 75% slower and will not display an option to launch 1.5 to public users! Public users get to see Pyro 1.5 when Ionar gives up again and Pyro goes open source.
 
-Pyro is by far one of the worst, least bypassing clients in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)  
+Want a refund? Sure, you can have one! Just be aware that when 1.5 releases you won't be able to have it back!
+
+Pyro is by far one of the worst, least bypassing clients in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)      
   
+         
+
