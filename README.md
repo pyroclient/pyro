@@ -12,4 +12,5 @@ Dont open an issue or pull request that we disagree with because we will always 
 
 In fact, our incompetent developers run off of an IV supply of PayPal balance! 
 
-Pyro is by far one of the worst, least bypassing client in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)
+Pyro is by far one of the worst, least bypassing clients in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)  
+  
