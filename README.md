@@ -12,5 +12,7 @@ Dont open an issue or pull request that we disagree with because we will always 
 
 In fact, our incompetent developers run off of an IV supply of PayPal balance! 
 
+Adding a new client to your mods folder with Pyro? Make sure to only wait 20 minutes for the loader to work and your new client will probably crash!  
+
 Pyro is by far one of the worst, least bypassing clients in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)  
   
