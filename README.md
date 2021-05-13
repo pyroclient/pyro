@@ -16,5 +16,7 @@ Adding a new client to your mods folder with Pyro? Make sure to only wait 20 min
 
 Waiting for 1.5 to release? We're still 90% done the new loader like we said 4 months ago. 1.5 will be rewritten in Kotlin and will have none of your feature requests or suggestions! We just want to rewrite in Kotlin to add compatibility for modules of other clients we skid from!            
 
+The 1.5 loader is guaranteed to be 75% slower and will not display an option to launch 1.5 to public users! Public users get to see Pyro 1.5 when Ionar gives up again and Pyro goes open source.
+
 Pyro is by far one of the worst, least bypassing clients in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)  
   
