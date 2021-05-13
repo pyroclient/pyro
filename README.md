@@ -5,3 +5,5 @@ Pyro is a hardly working and barely compatible client skidded from repos and gis
 We make sure to give updates every 2 years and get cracked every 2 months.
 
 When we get cracked, our incompetent community of 9 year olds make sure to tell people that the cracks are ratted so we still get our money!
+
+Our developers hardly keep in touch with the community and our support team is so fast that they respond over 8 hours late to issues!
