@@ -14,5 +14,7 @@ In fact, our incompetent developers run off of an IV supply of PayPal balance!
 
 Adding a new client to your mods folder with Pyro? Make sure to only wait 20 minutes for the loader to work and your new client will probably crash!  
 
+Waiting for 1.5 to release? We're still 90% done the new loader like we said 4 months ago. 1.5 will be rewritten in Kotlin and will have none of your feature requests or suggestions! We just want to rewrite in Kotlin to add compatibility for modules of other clients we skid from!            
+
 Pyro is by far one of the worst, least bypassing clients in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)  
   
