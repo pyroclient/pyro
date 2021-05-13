@@ -1,9 +1,3 @@
 # Pyro Client
 
-Discord: https://discord.gg/6PBbAuP
-
-Website (not updated atm): https://pyroclient.github.io
-
-Suggestions and bug reports: https://github.com/pyroclient/pyro/issues
-
-Feature implementation status: https://github.com/pyroclient/pyro/projects/1
+Pyro is a hardly working and badly incompatible client skidded from gists on github we will not tell you where to find because we want your money.
