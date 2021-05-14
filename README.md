@@ -10,7 +10,7 @@ Our developers hardly keep in touch with the community and our support team is s
 
 Dont open an issue or pull request that we disagree with because we will always close it even if you have valid points! Our 9 year old fans don't know how to navigate github so they cant find closed prs or issues and will keep feeding us money!
 
-In fact, our incompetent developers run off of an IV supply of PayPal balance! 
+In fact, our developers run off of an IV supply of PayPal balance! 
 
 Adding a new client to your mods folder with Pyro? Make sure to only wait 20 minutes for the loader to work and your new client will probably crash!  
 
