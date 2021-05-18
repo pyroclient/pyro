@@ -21,6 +21,6 @@ The 1.5 loader is guaranteed to be 75% slower and will not display an option to 
 Want a refund? Sure, you can have one! Just be aware that when 1.5 releases you won't be able to have it back!
 
 Pyro is by far one of the worst, least bypassing clients in the world. Download today at pyroclient.com or pyro.nuker.dev (we dont know which domain to register under lole so pick either one!)      
-  
-         
+
+Want the leaked jar? Go to https://github.com/Shapeshifters8b8t/RIP-pyro to see the leaked jahr!!!!!!!!
 
